@@ -15,7 +15,11 @@
 }
 
 .header-style {
-    padding-top: 10px;
+    padding-top: 20px;
+}
+
+.main-style {
+    padding-bottom: 45px;
 }
 
 .title {
@@ -34,12 +38,26 @@
 .title-cibio {
     color: #003a7a;
     font-family: 'Fjalla One', sans-serif;
-    font-size: 60px;
+    font-size: 45px;
     text-align: center;   
-    text-transform: uppercase; 
+    
 }
 
 .subtitle-cibio {
+    color: #006633;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.title-biosseg {
+    color: #003a7a;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 40px;
+    text-align: center;       
+}
+
+.subtitle-biosseg {
     color: #006633;
     font-family: 'Fjalla One', sans-serif;
     font-size: 20px;
