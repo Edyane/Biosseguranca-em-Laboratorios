@@ -31,17 +31,39 @@
     font-size: 25px;
 }
 
+.title-cibio {
+    color: #003a7a;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 60px;
+    text-align: center;   
+    text-transform: uppercase; 
+}
+
+.subtitle-cibio {
+    color: #006633;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
 .obj {
     color: #0d2453;
     font-family: 'Fjalla One', sans-serif;
     font-size: 25px;
     text-align: center; 
-    padding-top: 50px;      
+    padding-top: 20px;      
 }
 
 .obj-text {
     font-size: 18px;
     text-align: center; 
+}
+
+.cibio-article {
+    font-size: 18px;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
 }
 
 /* Slideshow container */
