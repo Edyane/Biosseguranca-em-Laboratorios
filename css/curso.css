@@ -87,6 +87,16 @@
     padding-right: 400px;
 }
 
+.btn-color {
+    background-color: #006633 !important;
+    border: none;
+    transition: 250ms;
+ }
+ 
+.btn-color:hover {
+    background-color: #003a7a !important; 
+}
+
 /* Slideshow container */
 .slideshow-container {
     position: relative;
