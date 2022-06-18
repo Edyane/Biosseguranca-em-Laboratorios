@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 
 * {
     text-decoration: none !important;
@@ -39,8 +41,7 @@
     color: #003a7a;
     font-family: 'Fjalla One', sans-serif;
     font-size: 45px;
-    text-align: center;   
-    
+    text-align: center;    
 }
 
 .subtitle-cibio {
@@ -73,11 +74,13 @@
 }
 
 .obj-text {
+    font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     text-align: center; 
 }
 
 .cibio-article {
+    font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     text-align: center;
     padding-left: 400px;
@@ -87,7 +90,7 @@
 /* Slideshow container */
 .slideshow-container {
     position: relative;
-    background: #f1f1f1f1;
+    background: #fdfcfc;
   }
   
 /* Slides */
@@ -105,7 +108,7 @@
     width: auto;
     margin-top: -30px;
     padding: 16px;
-    color: #888;
+    color: rgb(16, 28, 101);
     font-weight: bold;
     font-size: 20px;
     border-radius: 0 3px 3px 0;
