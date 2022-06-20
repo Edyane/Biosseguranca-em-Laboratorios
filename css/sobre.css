@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+* {
+    text-decoration: none !important;
+    list-style: none;
+}
+
+.img-logo {
+    padding: 20px;
+    width: 180px;
+    height: 75px;  
+    display: block;
+    margin: 0px auto; 
+    filter:brightness(75%);
+}
+
+.header-style {
+    padding-top: 20px;
+}
+
+.main-style {
+    padding-bottom: 45px;
+}
+
+.title {
+    color: #003a7a;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    color: #006633;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 25px;
+}
+
+.about-text {    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: center; 
+}
